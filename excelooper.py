@@ -1,17 +1,4 @@
 # -*- coding: UTF-8 -*-
-"""
-ExceLooper v1.0
-
-Created by George Watson for Loowatt Ltd.
-2 July 2019
-
-After testing and GUI creating, writing a program to vary any 1 or 2 cells in
-any Excel file between two floats with any float step, and output the result
-on any cell to a new sheet in Excel file.
-
-Python 3.7.1
-xlwings 0.15.8
-"""
 
 
 import xlwings as xw, tkinter, functools
